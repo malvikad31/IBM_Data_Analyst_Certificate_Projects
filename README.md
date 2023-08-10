@@ -1,1 +1,1 @@
-# IBM_Historical_Stocks_Revenues
+# IBM_Data_Analyst_Certificate_Projects
